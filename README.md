@@ -1,5 +1,8 @@
 # avatargenerator
-Avatar Generator, express, nodejs, jimp
+Avatar Generator
+
+Summary:-
+The project creates a webserver that will serve generated avatars.
 
 requirements:-
 -express
